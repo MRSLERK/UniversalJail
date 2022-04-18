@@ -47,15 +47,7 @@ class JailCommand extends Command
 
 	private $use_counter = [];
 
-	/**
-
-	 * @param Manager $main
-
-	 * @param string  $name
-
-	 * @param string  $description
-
-	 */
+	
 
 	const NAME        = 'jail';
 
